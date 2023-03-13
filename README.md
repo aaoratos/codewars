@@ -1,2 +1,2 @@
 # codewars
-My solutions in Python to the problems from codewars.com
+My solutions to the problems from [Codewars](https://www.codewars.com) (in various programming languages).
